@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "21BD010F1B4A31B6001180E2"
-               BuildableName = "People-OSX.framework"
+               BuildableName = "People.framework"
                BlueprintName = "People-OSX"
                ReferencedContainer = "container:People.xcodeproj">
             </BuildableReference>
@@ -29,7 +29,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "21BD01191B4A31B6001180E2"
-               BuildableName = "PeopleTests-OSX.xctest"
+               BuildableName = "PeopleTests.xctest"
                BlueprintName = "PeopleTests-OSX"
                ReferencedContainer = "container:People.xcodeproj">
             </BuildableReference>
@@ -47,7 +47,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "21BD01191B4A31B6001180E2"
-               BuildableName = "PeopleTests-OSX.xctest"
+               BuildableName = "PeopleTests.xctest"
                BlueprintName = "PeopleTests-OSX"
                ReferencedContainer = "container:People.xcodeproj">
             </BuildableReference>
@@ -57,7 +57,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "21BD010F1B4A31B6001180E2"
-            BuildableName = "People-OSX.framework"
+            BuildableName = "People.framework"
             BlueprintName = "People-OSX"
             ReferencedContainer = "container:People.xcodeproj">
          </BuildableReference>
@@ -76,7 +76,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "21BD010F1B4A31B6001180E2"
-            BuildableName = "People-OSX.framework"
+            BuildableName = "People.framework"
             BlueprintName = "People-OSX"
             ReferencedContainer = "container:People.xcodeproj">
          </BuildableReference>
@@ -94,7 +94,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "21BD010F1B4A31B6001180E2"
-            BuildableName = "People-OSX.framework"
+            BuildableName = "People.framework"
             BlueprintName = "People-OSX"
             ReferencedContainer = "container:People.xcodeproj">
          </BuildableReference>

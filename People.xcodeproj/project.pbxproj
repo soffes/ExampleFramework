@@ -603,6 +603,7 @@
 				21BD01051B4A30CD001180E2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		21BD01061B4A30CD001180E2 /* Build configuration list for PBXNativeTarget "PeopleTests-iOS" */ = {
 			isa = XCConfigurationList;
@@ -611,6 +612,7 @@
 				21BD01081B4A30CD001180E2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		21BD01231B4A31B6001180E2 /* Build configuration list for PBXNativeTarget "People-OSX" */ = {
 			isa = XCConfigurationList;
@@ -619,6 +621,7 @@
 				21BD01251B4A31B6001180E2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		21BD01261B4A31B6001180E2 /* Build configuration list for PBXNativeTarget "PeopleTests-OSX" */ = {
 			isa = XCConfigurationList;
@@ -627,6 +630,7 @@
 				21BD01281B4A31B6001180E2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
